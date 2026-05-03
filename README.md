@@ -65,7 +65,7 @@ python main.py
 ---
 ## Team
 Built by a 4-person team at the Code-ML Hackathon
-- AbdouMaouda
+
 ---
 ## License
 This project is licensed under the MIT License.
