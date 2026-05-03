@@ -57,7 +57,7 @@ The best performing model generates predictions on the test set and exports them
 - Python 3.8+
 - pip
 ### Installation
-git clone https://github.com/AbdouMaouda/oil-price-prediction.git
+git clone [https://github.com/AbdouMaouda/oil-price-prediction.git](https://github.com/AbdouMaouda/Predicting-Oil-Prices-using-NLP-ML-CodeML-Hackathon)
 cd oil-price-prediction
 pip install pandas numpy scikit-learn textblob
 ### Run
